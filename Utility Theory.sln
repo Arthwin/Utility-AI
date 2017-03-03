@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility Theory", "Utility Theory.csproj", "{02CE3D7C-E3FC-E25A-DA55-8D7ED9BEF17A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility Theory.Editor", "Utility Theory.Editor.csproj", "{8751CD7B-447D-142F-0664-29946A81F4FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CE3D7C-E3FC-E25A-DA55-8D7ED9BEF17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CE3D7C-E3FC-E25A-DA55-8D7ED9BEF17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CE3D7C-E3FC-E25A-DA55-8D7ED9BEF17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CE3D7C-E3FC-E25A-DA55-8D7ED9BEF17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8751CD7B-447D-142F-0664-29946A81F4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8751CD7B-447D-142F-0664-29946A81F4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8751CD7B-447D-142F-0664-29946A81F4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8751CD7B-447D-142F-0664-29946A81F4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
